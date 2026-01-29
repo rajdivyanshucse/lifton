@@ -57,7 +57,7 @@ export const Footer = () => {
         </div>
 
         <div className="border-t border-border pt-8 text-center text-muted-foreground text-sm">
-          <p>© 2024 LIFTON. All rights reserved.</p>
+          <p>© 2026 LIFTON. All rights reserved.</p>
         </div>
       </div>
     </footer>
