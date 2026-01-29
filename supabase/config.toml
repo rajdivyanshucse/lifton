@@ -1,0 +1,10 @@
+project_id = "acretkqpqsgpiljtwoof"
+
+[functions.create-wallet-topup]
+verify_jwt = false
+
+[functions.verify-wallet-topup]
+verify_jwt = false
+
+[functions.send-notification]
+verify_jwt = false
